@@ -53,7 +53,7 @@ Updates: Your purchase grants perpetual access to updates, model adjustments, an
 
 🛟 Support & Access Resolution
 
-If your invitation failed to dispatch, your company email does not match your GitHub handle, or you hit an entitlement error:
+If your invitation failed to dispatch, your company email does not match your GitHub handle, or you hit an entitlement error: "Need to transfer the repository seat to a different technical lead? Email codifiedlabs@gmail.com with your receipt number and the target GitHub handle."
 
 Email: codifiedlabs@gmail.com
 
