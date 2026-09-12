@@ -2,7 +2,7 @@
 
 ### 1. I clicked the repo link and received a GitHub "404 Page Not Found"
 GitHub hides private repositories behind a standard `404` to avoid leaking repository existence. This happens for one of three reasons:
-* **The Invite is Pending:** You must navigate to `https://github.com/CodifiedLabs/spec-to-code-pro/invitations` and manually click **Accept**.
+* **The Invite is Pending:** You must navigate to `https://github.com/CodifiedLabs/spec-to-code-rules-pro/invitations` and manually click **Accept**.
 * **Account Mismatch:** You completed checkout using a personal or corporate email tied to a different GitHub handle than the one currently logged in on your browser. Log out of GitHub and log back in with the handle authorized during Dodo checkout.
 * **Email Verification:** If your GitHub account has an unverified primary email, GitHub rejects collaborator grants automatically.
 
