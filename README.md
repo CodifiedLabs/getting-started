@@ -16,7 +16,7 @@ Once accepted, pull the repository or browse the rule manifests directly:
 👉 CodifiedLabs/spec-to-code-rules-pro
 
 Bash
-git clone [https://github.com/CodifiedLabs/spec-to-code-pro.git](https://github.com/CodifiedLabs/spec-to-code-rules-pro.git)
+git clone [https://github.com/CodifiedLabs/spec-to-code-rules-pro.git](https://github.com/CodifiedLabs/spec-to-code-rules-pro.git)
 
 Seeing a 404 error? Read TROUBLESHOOTING.md. GitHub shows a 404 instead of a 403 if you are logged into the wrong account or have not clicked the invitation link yet.
 
