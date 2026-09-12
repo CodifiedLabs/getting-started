@@ -8,7 +8,7 @@ If you completed checkout through Dodo Payments, your access grant has been prov
 1. Accept Your GitHub Invitation
 GitHub collaborator invites do not auto-accept. If you missed the notification email, click below while logged into your GitHub account:
 
-👉 [Accept Invitation](https://github.com/CodifiedLabs/spec-to-code-pro/invitations) to Spec-to-Code Rules Pro
+👉 [Accept Invitation](https://github.com/CodifiedLabs/spec-to-code-rules-pro/invitations) to Spec-to-Code Rules Pro
 
 2. Enter the Private Repository
 Once accepted, pull the repository or browse the rule manifests directly:
