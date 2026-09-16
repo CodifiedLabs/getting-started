@@ -1,4 +1,4 @@
-# Codified Labs: Getting Started
+# Getting Started
 
 Central onboarding hub and setup instructions for **Spec-to-Code Rules Pro** rules and engineering workflows.
 
