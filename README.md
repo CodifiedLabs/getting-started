@@ -1,5 +1,7 @@
 # Getting Started
 
+Codified Labs is an AI native workspace for building, evaluating, and deploying product requirements using AI coding agents such as Cursor, Claude Code, Copilot, or any other tools.
+
 Central onboarding hub and setup instructions for **Spec-to-Code Rules Pro** rules and engineering workflows.
 
 ### ⚡ Quick Access (Purchased Customers)
